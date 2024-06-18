@@ -3,7 +3,7 @@ version: '3'
 services:
   app:
     restart: always
-    container_name: hs048
+    container_name: zikry
     environment:
       - TZ=Asia/Makassar
     build:
